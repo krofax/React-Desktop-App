@@ -1,0 +1,38 @@
+{
+  "name": "money-heist",
+  "version": "1.0.0",
+  "description": "A desktop app made with react and tauri",
+  "main": "index.js",
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "@types/node": "^11.9.0",
+    "@types/reach__router": "^1.2.3",
+    "@types/react": "^16.8.2",
+    "@types/react-dom": "^16.8.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "^3.0.1",
+    "tauri": "^0.10.0",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Beveloper",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

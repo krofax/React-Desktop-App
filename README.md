@@ -1,4 +1,4 @@
-# React and Typescript based web app(Money Heist Episode Picker)
+# A desktop App with React and Tauri
 
 ## Install
 
